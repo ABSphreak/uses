@@ -1,34 +1,35 @@
 # Uses
+
 ⚙ All my settings, software, tools and setup files in one place
 
 ## Softwares
 
-### Editor
+### Editors
 
-- VSCode - For all primary use-cases
-- Notepad++ - Specifically for simple things and notetaking
+- [VSCode](https://code.visualstudio.com/) - For all primary use-cases
+- [Notepad++](https://notepad-plus-plus.org/) - Specifically for simple things and notetaking
 
 ### Terminal
 
-- Windows Terminal - Primary Windows terminal app
-- Powershell Core - Because of tight integration with windows and customizability
-- Oh-my-posh - Powershell Theme setup
-- WSL2 - For Linux like experience on Windows
-- Zsh - Linux shell
-- Oh-my-zsh - Custom zsh theme configuration
+- [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Primary Windows terminal app
+- [Powershell Core](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-windows?view=powershell-7.1) - Because of tight integration with windows and customizability
+- [Oh-my-posh](https://ohmyposh.dev/) - Powershell Theme setup
+- [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install-win10) - For Linux like experience on Windows
+- [Zsh](https://www.zsh.org/) - Linux shell
+- [Oh-my-zsh](https://ohmyz.sh/) - Custom zsh theme configuration
 
 ### Other
 
-- Postman - API Testing and Design
-- Figma - Basic Designs etc.
-- Adobe Illustrator - Complex Designs
-- Adobe Premiere Pro - Video Editor
+- [Postman](https://www.postman.com/) - API Testing and Design
+- [Figma](https://www.figma.com/) - Basic Designs etc.
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator/free-trial-download.html) - Complex Designs
+- [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - Video Editor
 
 ## Gear
 
 ### Computers
 
-- Main Machine - Lenovo Y700
-- Work Machine - Lenovo Ideapad 320
+- Main Machine - Macbook Air M1
+- Windows Machine - Lenovo Y700
 
 ### Other
