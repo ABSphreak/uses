@@ -24,6 +24,7 @@
 - [Figma](https://www.figma.com/) - Basic Designs etc.
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator/free-trial-download.html) - Complex Designs
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - Video Editor
+- [PasteApp](https://pasteapp.io/) - Clipboard history
 
 ## Gear
 
