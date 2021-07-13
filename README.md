@@ -30,7 +30,7 @@
 
 ### Computers
 
-- Main Machine - Macbook Air M1
-- Windows Machine - Lenovo Y700
+- Main Machine - [Macbook Air M1](https://www.apple.com/macbook-air/)
+- Windows Machine - [Lenovo Y700](https://www.lenovo.com/us/en/laptops/ideapad/ideapad-y700-series/Ideapad-Y700-15/p/88IPY700618)
 
 ### Other
