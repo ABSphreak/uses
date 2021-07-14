@@ -26,6 +26,11 @@
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - Video Editor
 - [PasteApp](https://pasteapp.io/) - Clipboard history
 
+### Utilities
+
+- iStat Menus - System Monitor
+-
+
 ## Gear
 
 ### Computers
