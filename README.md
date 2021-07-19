@@ -17,6 +17,7 @@
 - [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install-win10) - For Linux like experience on Windows
 - [Zsh](https://www.zsh.org/) - Linux shell
 - [Oh-my-zsh](https://ohmyz.sh/) - Custom zsh theme configuration
+- [iTerm](https://iterm2.com/) - Best MacOS terminal app
 
 ### Other
 
